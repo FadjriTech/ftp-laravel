@@ -15,13 +15,8 @@
             <div class="col text-center">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Hello Guys</h5>
-                        <p class="card-text">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam culpa nesciunt porro non
-                            temporibus eligendi a! Quis praesentium, reiciendis nihil tenetur sunt, dignissimos
-                            excepturi fugit ex voluptas illo ab enim.
-                        </p>
-                        <a href="/move" class="btn btn-primary">Start Journey</a>
+                        <h5 class="card-title mb-3">What r u lookin' for !? 😒</h5>
+                        <a href="/" class="btn btn-primary">Back Home</a>
                     </div>
                 </div>
             </div>
