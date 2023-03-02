@@ -17,7 +17,8 @@ jobs:
         server: ftp.akastra.id
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: '/laravel'
+        server-dir: '/laravel/'
 
-# username : admin@staging.akastra.id
-# password : eK+K#fd!MbJh
+# # username : admin@staging.akastra.id
+# # password : eK+K#fd!MbJh
+
